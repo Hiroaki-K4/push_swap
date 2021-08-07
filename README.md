@@ -17,6 +17,7 @@ the last one.
 rr : ra and rb at the same time.
 rra : reverse rotate a - shift down all elements of stack a by 1. The last element
 becomes the first one.
+
 ![push_swap](https://user-images.githubusercontent.com/51109408/128590165-3d7ef78e-5ba0-4273-b318-c583bde2c0d9.png)
 
 <br>
