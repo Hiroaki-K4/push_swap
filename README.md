@@ -18,7 +18,7 @@ This project will make you sort data on a stack, with a limited set of instructi
 <br>
 
 # Sort algorithm(Quick sort)
-I used quicksort as the sorting algorithm.
+I used [quicksort](https://www.geeksforgeeks.org/quick-sort/) as the sorting algorithm.
 
 <br>
 
