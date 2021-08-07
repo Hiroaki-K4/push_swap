@@ -42,6 +42,7 @@ make fclean
 ```
 
 # How to run
+Executing the command below will output the operation used to sort.
 ```
-./cub3D sample.cub
+ARG="4 67 3 87 23"; ./push_swap $ARG
 ```
