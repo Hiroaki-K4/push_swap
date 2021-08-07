@@ -46,8 +46,11 @@ Executing the command below will output the operation used to sort.
 ```
 ARG="4 67 3 87 23"; ./push_swap $ARG
 ```
-Executing the command below will output the operation used to sort.
+The command below prints the number of operations used to sort.
 ```
-ARG="4 67 3 87 23"; ./push_swap $ARG
+ARG="4 67 3 87 23"; ./push_swap $ARG | wc -l
 ```
-
+Run the command below to check if the operation used to sort is correct. If the answer is correct, OK is output, and if it is incorrect, KO is output. The checker file is for Mac. Use checker_linux in Linux environment.
+```
+ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker $ARG
+```
