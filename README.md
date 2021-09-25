@@ -13,6 +13,9 @@ This project will make you sort data on a stack, with a limited set of instructi
 - rrb : reverse rotate b - shift down all elements of stack b by 1. The last element becomes the first one.
 - rrr : rra and rrb at the same time.
 
+<br>
+
+# My score
 ![push_swap](https://user-images.githubusercontent.com/51109408/128590165-3d7ef78e-5ba0-4273-b318-c583bde2c0d9.png)
 
 <br>
